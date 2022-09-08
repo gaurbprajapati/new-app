@@ -36,18 +36,7 @@ export class NavBar extends Component {
                         <li className="nav-item"><Link className="nav-link active" aria-current="page" to="/technology"> Technology</Link></li>
                      </ul>  
 
-{/* 
-this is the drop down to add the country or langaguge in this project to filter the news
-            <div className="dropdown">
-                <button className="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  Dropdown button
-                </button>
-                <ul className="dropdown-menu">
-                  <li><a className="dropdown-item" href="/">All Country</a></li>
-                  <li><a className="dropdown-item" href="#">India</a></li>
-                  <li><a className="dropdown-item" href="#">Us</a></li>
-                </ul>
-            </div> */}
+
 
 
                 </div>
