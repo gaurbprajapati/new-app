@@ -26,6 +26,10 @@ export class NavBar extends Component {
                 </button>
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                      <ul className="navbar-nav me-auto mb-2 mb-lg-0 navbar-expand-lg ">
+
+
+                     {/* this is all the catogory of news 
+                      */}
                         <li className="nav-item"><Link className="nav-link active" aria-current="page" to="/general">Home</Link></li>
                         <li className="nav-item"><Link className="nav-link active" aria-current="page" to="/business"> Business </Link> </li>
                         <li className="nav-item"><Link className="nav-link active" aria-current="page" to="/entertainment">Entertainment</Link></li>
