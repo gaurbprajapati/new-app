@@ -42,7 +42,7 @@ export class NavBar extends Component {
 
 
 
-
+{/* for ii in  */}
                 </div>
             </div>
 
